@@ -1,0 +1,23 @@
+<h1>Easy Shopping</h1>
+
+<br>
+<br>
+
+<h2>Projeto DevClub <a href="https://plataforma.devclub.com.br/">DevClub</a></h2>
+
+<h2>Tecnologias utilizadas</h2>
+<img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt= "html-logo-html">
+<br>
+<img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt= "html-logo-CSS">
+
+<br>
+<br>
+
+<h2>Imagens do projeto</h2>
+
+<img src="./Screenshot_1.png" alt="imagensreal">
+<br>
+<br>
+
+<h2>Resposividade</h2>
+<img src="./responsivo.gif" alt="responsivo">
